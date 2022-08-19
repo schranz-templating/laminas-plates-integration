@@ -1,7 +1,7 @@
 # Schranz Template Renderer Integration for Plates
 
 Integrate the templating [Plates Bridge](https://github.com/schranz-templating/plates-bridge)
-into the Laminas Framework.
+into the [Laminas Framework](https://getlaminas.org/).
 
 Part of the [Schranz Templating Project](https://github.com/schranz-templating/templating).
 
